@@ -49,6 +49,7 @@ class ViewController: UIViewController {
         
          print("Git Tutorial")
         print("Print for brand test")
+         print("Print for GitHub test")
     }
 
     override func didReceiveMemoryWarning() {

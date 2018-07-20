@@ -46,6 +46,8 @@ class ViewController: UIViewController {
         
         print(location1.longitude)
         print(location2.longitude)
+        
+         print("Git Tutorial")
     }
 
     override func didReceiveMemoryWarning() {
